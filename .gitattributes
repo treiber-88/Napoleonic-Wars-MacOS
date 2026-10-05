@@ -1,0 +1,2 @@
+# The start script must keep Unix line endings.
+*.command text eol=lf
